@@ -1,0 +1,23 @@
+{
+  "fire": {
+    "type": "axis",
+    "index": 5,
+    "threshold": 0.5
+  },
+  "dash": {
+    "type": "button",
+    "index": 0
+  },
+  "pause": {
+    "type": "button",
+    "index": 7
+  },
+  "mute": {
+    "type": "button",
+    "index": 6
+  },
+  "confirm": {
+    "type": "button",
+    "index": 7
+  }
+}
